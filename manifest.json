@@ -1,0 +1,38 @@
+{
+  "name": "B9Santri",
+  "short_name": "Bintang Songo",
+  "start_url": "URL HOMEPAGE",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Ahhlussunah Waljamaah, Hubul Wathon Minal Iman",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-DPKNXd71Voo/X6Fb3zVaFuI/AAAAAAAAXco/rt9rAwN7QnU5T338xwyU0HrqrLOOkhUlwCLcBGAsYHQ/s48/maskable_icon%2B%25281%2529-min-min.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DPKNXd71Voo/X6Fb3zVaFuI/AAAAAAAAXco/rt9rAwN7QnU5T338xwyU0HrqrLOOkhUlwCLcBGAsYHQ/s72/maskable_icon%2B%25281%2529-min-min.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DPKNXd71Voo/X6Fb3zVaFuI/AAAAAAAAXco/rt9rAwN7QnU5T338xwyU0HrqrLOOkhUlwCLcBGAsYHQ/s96/maskable_icon%2B%25281%2529-min-min.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DPKNXd71Voo/X6Fb3zVaFuI/AAAAAAAAXco/rt9rAwN7QnU5T338xwyU0HrqrLOOkhUlwCLcBGAsYHQ/s144/maskable_icon%2B%25281%2529-min-min.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DPKNXd71Voo/X6Fb3zVaFuI/AAAAAAAAXco/rt9rAwN7QnU5T338xwyU0HrqrLOOkhUlwCLcBGAsYHQ/s168/maskable_icon%2B%25281%2529-min-min.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DPKNXd71Voo/X6Fb3zVaFuI/AAAAAAAAXco/rt9rAwN7QnU5T338xwyU0HrqrLOOkhUlwCLcBGAsYHQ/s192/maskable_icon%2B%25281%2529-min-min.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DPKNXd71Voo/X6Fb3zVaFuI/AAAAAAAAXco/rt9rAwN7QnU5T338xwyU0HrqrLOOkhUlwCLcBGAsYHQ/s512/maskable_icon%2B%25281%2529-min-min.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
