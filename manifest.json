@@ -1,9 +1,10 @@
 {
   "name": "B9Santri",
-  "short_name": "Santri Bintang Songo",
+  "short_name": "B9Santri",
+  "lang": "en-ID",
   "start_url": "https://www.b9santri.com",
-  "scope": "/",
   "display": "standalone",
+  "scope": "/",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
   "description": "Ahhlussunah Waljamaah, Hubul Wathon Minal Iman",
