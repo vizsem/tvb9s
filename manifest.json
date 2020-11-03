@@ -1,7 +1,8 @@
 {
   "name": "B9Santri",
-  "short_name": "Bintang Songo",
-  "start_url": "URL HOMEPAGE",
+  "short_name": "Santri Bintang Songo",
+  "start_url": "https://www.b9santri.com/index.html",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
