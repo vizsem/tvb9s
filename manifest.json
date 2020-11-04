@@ -7,6 +7,9 @@
   "scope": "/",
   "background_color": "#FFFFFF",
   "theme_color": "#42b549",
+  "gcm_sender_id": "704511797260",
+  "permissions": ["gcm"],
+  "prefer_related_applications": false,
   "description": "Ahhlussunah Waljamaah, Hubul Wathon Minal Iman",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-DPKNXd71Voo/X6Fb3zVaFuI/AAAAAAAAXco/rt9rAwN7QnU5T338xwyU0HrqrLOOkhUlwCLcBGAsYHQ/s48/maskable_icon%2B%25281%2529-min-min.png",
